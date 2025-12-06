@@ -1,0 +1,19 @@
+# macOS metadata
+.DS_Store
+
+# IDE folders
+.idea/
+.vscode/
+
+# Build artifacts
+obj_dir/
+*.o
+*.a
+*.d
+*.elf
+*.map
+*.bin
+*.hex
+
+# Temporary backup files
+*~
